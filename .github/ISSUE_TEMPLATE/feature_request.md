@@ -1,23 +1,38 @@
-# Feature Suggestion Template
-
-## Summary
-Provide a brief summary of the feature you are suggesting.
-
-## Problem Statement
-Explain the problem this feature would solve or the need it addresses.
-
-## Proposed Solution
-Describe your proposed solution or approach to implement the feature.
-
-## Alternatives Considered
-List any alternative solutions or approaches you have considered.
-
-## Additional Context
-Add any other context, screenshots, or references that might help understand the suggestion.
-
-## Acceptance Criteria
-- [ ] Clearly defined criteria for the feature to be considered complete.
-- [ ] Include any specific requirements or constraints.
+---
+name: Bug Report
+about: Create a report to help us improve
+title: '[FEATURE] '
+labels: ''
+assignees: ''
 
 ---
-*Thank you for contributing!*
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
