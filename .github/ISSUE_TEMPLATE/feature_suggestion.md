@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature Suggestion
 about: Create a report to help us improve
 title: '[FEATURE] '
 labels: ''
