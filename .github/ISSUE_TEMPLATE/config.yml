@@ -1,9 +1,12 @@
-# blank_issues_enabled: true
-# issue_template:
-#   - name: Bug Report
-#     description: Use this template to report a bug.
-#     file: bug_report.md
-#   - name: Feature Request
-#     description: Use this template to request a new feature.
-#     file: feature_request.md
-# contact_links: []
+blank_issues_enabled: true
+issue_template:
+  - name: Bug Report
+    description: Use this template to report a bug.
+    file: bug_report.md
+  - name: Feature Request
+    description: Use this template to request a new feature.
+    file: feature_request.md
+contact_links: 
+  - name: Contact Us
+    url: http://carfinance247.co.uk
+    about: If you have any questions or need assistance, please contact us.
